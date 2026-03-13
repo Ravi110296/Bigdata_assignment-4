@@ -1,0 +1,11 @@
+pandas 
+numpy==1.26.4
+scikit-learn 
+matplotlib 
+seaborn 
+scipy 
+surprise 
+lime 
+shap 
+tensorflow
+shap
