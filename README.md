@@ -6,6 +6,7 @@ Open terminal in the project folder
 Launch Jupyter: jupyter notebook
 Open: DL_Assignment.ipynb
 Click: Kernel → Restart & Run All
+
 Option 2 — Run in Google Colab (Recommended)
 
 Upload the notebook to Colab
